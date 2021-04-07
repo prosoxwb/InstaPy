@@ -1,1 +1,1 @@
-worker: python quickstart.py
+worker: python quickstart.py --username kabla_nakshulin --password pawgilatapimalsayang
